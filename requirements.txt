@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+numpy
+python-dotenv #to fetch key from .env
+Pillow #pixel data to vector data
