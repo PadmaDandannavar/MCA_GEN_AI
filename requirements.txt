@@ -4,3 +4,9 @@ openai
 numpy
 python-dotenv #to fetch key from .env
 Pillow #pixel data to vector data
+
+PyPDF2
+pypdf
+opencv-python #OCR
+faiss-cpu #database
+sentence-transformers
